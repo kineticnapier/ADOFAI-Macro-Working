@@ -10,4 +10,4 @@ JDK Version 11
 , Language level 8
 
 
-Will take down on request. Contact me in issues tab.
+Will take down on request. Contact me.
